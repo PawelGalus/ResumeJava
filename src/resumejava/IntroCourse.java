@@ -1,4 +1,4 @@
-package ResumeJava;
+package resumejava;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,13 +12,13 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import Objects.Car;
-import Objects.Cat;
-import Objects.Dog;
-import Objects.Level;
-import Objects.OuterClass;
-import Objects.Student;
-import Objects.Vehicle;
+import objects.Car;
+import objects.Cat;
+import objects.Dog;
+import objects.Level;
+import objects.OuterClass;
+import objects.Student;
+import objects.Vehicle;
 
 /**
  * Course: Introduction to Java Programming - Course for Absolute Beginners.
